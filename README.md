@@ -1,20 +1,20 @@
 # Semana-2-Escola-DNC
 Projeto de Desenvolvimento do Modulo Base do Curso de Tecnologia da Escola DNC
-Link do site disponibilizado: https://projeto-escola-dnc.netlify.app/
-Link da Planilha de registro de informações: https://docs.google.com/spreadsheets/d/1W6cizEfVCHEWZGfkKaeVAVdT3E1rkh2puf_p03W2f_k/edit#gid=0
+- Link do site disponibilizado: https://projeto-escola-dnc.netlify.app/
+- Link da Planilha de registro de informações: https://docs.google.com/spreadsheets/d/1W6cizEfVCHEWZGfkKaeVAVdT3E1rkh2puf_p03W2f_k/edit?usp=sharing
 
 
 ### Documentação HTML
 
 #### `index.html`
 
-O arquivo `index.html` representa a página principal para o "Projeto Escola DNC" ou "Projeto Escola DNC".
+O arquivo `index.html` representa a página principal para o "LandingPage" ou "LandingPage Escola DNC".
 
 - `index.html` inclui as seguintes seções e elementos:
 
   - `<head>`: Contém metadados e recursos externos vinculados à página.
     - Os metadados incluem a codificação de caracteres do documento e as configurações de viewport.
-    - Os recursos externos incluem o CSS do Bootstrap, os ícones do Bootstrap, as fontes do Google e um arquivo CSS personalizado (`style.css`).
+    - Os recursos externos incluem as fontes do Google e um arquivo CSS personalizado (`style.css`).
     - O título da página está definido como "Projeto Escola DNC".
 
   - `<body>`: Contém o conteúdo da página.
